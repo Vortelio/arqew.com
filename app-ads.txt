@@ -1,3 +1,4 @@
+#AdMob#
 google.com, pub-1369017946267623, DIRECT, f08c47fec0942fa0
 
 #Google#
